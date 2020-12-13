@@ -1,1 +1,3 @@
-# junle_menu-Bot
+# jungle_menu-Bot
+
+### 정글 프로젝트 중 문지 캠퍼스 식당의 메뉴를 불러오는 슬랙봇
